@@ -36,10 +36,14 @@ Software: Python, OpenCV
 ## Result
 
 With Spectacals
+
+
 <img src="https://github.com/Nikita-Chorghe/Driver-Drowsiness-Using-OpenCV/blob/master/Images/specs1.png"></img>
 <img src="https://github.com/Nikita-Chorghe/Driver-Drowsiness-Using-OpenCV/blob/master/Images/specs2.png"></img>
 
 Without Spectacles
+
+
 <img src="https://github.com/Nikita-Chorghe/Driver-Drowsiness-Using-OpenCV/blob/master/Images/nspecs.png"></img>
 <img src="https://github.com/Nikita-Chorghe/Driver-Drowsiness-Using-OpenCV/blob/master/Images/nspecs2.png"></img>
 
